@@ -1,5 +1,5 @@
 {
-    "name": "overtrue/wechat",
+    "name": "lehman/wechat",
     "description": "微信SDK",
     "keywords": [
         "wechat",
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "overtrue",
-            "email": "anzhengchao@gmail.com"
+            "name": "lehman",
+            "email": "2438391125@qq.com"
         }
     ],
     "require": {
@@ -43,4 +43,5 @@
             "EasyWeChat\\Tests\\": "tests/"
         }
     }
+
 }
